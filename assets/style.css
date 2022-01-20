@@ -1,0 +1,39 @@
+body{
+  background-color: darkblue;
+}
+
+p{
+
+    font-size: 20px;
+
+}
+h1{
+    color:darkgreen;
+    font-family: "Harlow Solid Italic";
+}
+h1.head1{
+    color:darkblue;
+    font-family: "Harlow Solid Italic";
+}
+h2.head2{color:darkblue;}
+
+.lable{color:mediumvioletred;}
+
+.text{color:mediumvioletred;
+
+
+}
+.cc{color:darkgreen}
+h1.head1-1{color: lime;
+    font-size: xx-large;
+    align-content: center;
+    alignment: center;
+}
+.link{
+    font-size: x-large;
+}
+img.img1{width: 200px;
+    height: 200px;
+    alignment: center;
+
+}
